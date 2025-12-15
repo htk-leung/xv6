@@ -3,6 +3,8 @@
 
 This repository hosts a collection of projects implemented in the xv6 environment as a way to understand operating systems. All projects are results of group efforts with Ethan Bell with the exception of project 4 Tail.
 
+\* Original README has been moved to ``xv6/doc``
+
 ## Parts
 
 1. Scheduling
